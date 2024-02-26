@@ -1,7 +1,5 @@
-
-
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
-<b>Hi, My name is Sunitha Pandirla. I am a data professional.<b>
+<b>Hi, My name is Sunitha pandirla. I am a data professional.<b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
@@ -33,19 +31,17 @@
 <p align="center">
 
 <a href=""> 
-  <img align="center" src="https://www.linkedin.com/in/sunitha-pandirla-1778952ab/" />
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href=" ">
-  <img align="center" src="https://public.tableau.com/app/profile/sunitha.rani.pandirla/vizzes"  />
+  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
 <a href="mailto: ">  
-  <img align="center" src="sunithapandirla@gmail.com
-"  />
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
 </a>
 
 </p>
-
 
 
