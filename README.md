@@ -33,15 +33,16 @@
 <p align="center">
 
 <a href=""> 
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" src="https://www.linkedin.com/in/sunitha-pandirla-1778952ab/" />
 </a>
 
 <a href=" ">
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
+  <img align="center" src="https://public.tableau.com/app/profile/sunitha.rani.pandirla/vizzes"  />
 </a>
 
 <a href="mailto: ">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
+  <img align="center" src="sunithapandirla@gmail.com
+"  />
 </a>
 
 </p>
